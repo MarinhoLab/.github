@@ -4,7 +4,7 @@
 - https://mmmarinho.github.io
 
 ### MSc Dissertation Projects
-- Book meetings with me [[here]](https://outlook-sdf.office.com/bookwithme/user/f55bfc03a68a454c9074fb90412ee0c0@manchester.ac.uk?anonymous&ep=plink)
+- Book meetings with me [[here]](https://outlook.office.com/bookwithme/user/f55bfc03a68a454c9074fb90412ee0c0@manchester.ac.uk?anonymous&ep=plink)
   - Please differentiate between *in-person* and *online* meetings according to your needs and university rules. Refer to [EEEN60070](https://online.manchester.ac.uk/ultra/courses/_78335_1/cl/outline) for more info.
 
 ### 👩‍💻 Useful resources
