@@ -3,7 +3,7 @@
 ### 🧙 Murilo's Research Website
 - https://mmmarinho.github.io
 
-### 🤖 Main robots
+### 🤖 Main robots at RAICo1
 
 #### [KUKA LBR R820 Med](https://hotrobotics.co.uk/equipment/kuka-lbr-med-14-r820/)
 - Documentation: https://github.com/UoM-RAICo1/raico-docs/tree/main/source/robots/Arms/KukaLbrIiwa
