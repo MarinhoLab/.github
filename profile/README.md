@@ -6,12 +6,19 @@
 ### 🤖 Main robots at RAICo1
 
 #### [KUKA LBR R820 Med](https://hotrobotics.co.uk/equipment/kuka-lbr-med-14-r820/)
-- Documentation: https://github.com/UoM-RAICo1/raico-docs/tree/main/source/robots/Arms/KukaLbrIiwa
-- Software: https://github.com/MarinhoLab/sas_robot_driver_kuka
+|||
+|---|---|
+|⭐Template|https://github.com/MarinhoLab/sas_kuka_control_template|
+|Documentation|https://github.com/UoM-RAICo1/raico-docs/tree/main/source/robots/Arms/KukaLbrIiwa|
+|Software|https://github.com/MarinhoLab/sas_robot_driver_kuka| 
 
 #### UR3e
-- Documentation: https://github.com/UoM-RAICo1/raico-docs/tree/main/source/robots/Arms/UniversalRoboticsUr3
-- Software: https://github.com/MarinhoLab/sas_robot_driver_ur
+
+|||
+|---|---|
+|⭐Template|https://github.com/MarinhoLab/sas_ur_control_template|
+|Documentation|https://github.com/UoM-RAICo1/raico-docs/tree/main/source/robots/Arms/UniversalRoboticsUr3|
+|Software|https://github.com/MarinhoLab/sas_robot_driver_ur| 
 
 ### 👩‍💻 Useful resources
 
