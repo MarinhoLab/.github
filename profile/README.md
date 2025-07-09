@@ -1,7 +1,7 @@
 ## Welcome to Marinho's Robotics Laboratory's GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/TAB_allwhite.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarinhoLab/.github/refs/heads/main/profile/TAB_allwhite.png">
   <source media="(prefers-color-scheme: light)" srcset="./TAB_allwhite.png">
 </picture>
 
