@@ -1,8 +1,8 @@
 ## Welcome to Marinho's Robotics Laboratory's GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d92fefed-7adc-4da9-af15-7e1d8b6d84de">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/739ed5ce-89b3-4da6-b7fa-a0d4630d1b35">
+  <source media="(prefers-color-scheme: dark)" srcset="./TAB_allwhite.png">
+  <source media="(prefers-color-scheme: light)" srcset="./TAB_allwhite.png">
 </picture>
 
 ### 🧙 Murilo's Research Website
