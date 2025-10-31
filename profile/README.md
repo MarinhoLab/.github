@@ -8,6 +8,9 @@
 ### 🧙 Murilo's Research Website
 - https://mmmarinho.github.io
 
+### Sharepoint Page (Internal)
+- https://livemanchesterac.sharepoint.com/:u:/r/sites/UOM-FSE-EEE-Marinho-Lab/SitePages/Home.aspx
+
 ### ✨ Murilo's project highlights
 - SmartArmStack: https://smartarmstack.github.io
 - ROS2 Tutorial: https://ros2-tutorial.readthedocs.io/
